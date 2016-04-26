@@ -10,7 +10,7 @@ Minor assignment 7
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <netdb.h> 
-
+//Edit test
 void error(const char *msg)
 {
 	perror(msg);

@@ -23,11 +23,11 @@ git fetch
 git checkout master
 
 
-git branch <initials>_<MM>_<DD>
+git branch [initials]_[MM]_[DD]
 
 Now you can edit the files.. 
 
-<initials>_<MM>_<DD> is your current branch name <current branch>
+[initials]_[MM]_[DD] is your current branch name [current branch]
 
 When you finish editing..
 
@@ -38,7 +38,7 @@ git commit
 
   //might ask you to run some commands to setup your email and username
   
-git push origin <current branch>
+git push origin [current branch]
 
   //Will ask for your github login info
   
